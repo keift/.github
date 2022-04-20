@@ -4,7 +4,7 @@
 
 We are an organization that offers various services on the Internet since 2017.
 
-### This is my last project 💻
+### This is our last project 💻
 
 <img src="https://i.ibb.co/mbJC8yX/unknown.png" width="256px"/>
 
