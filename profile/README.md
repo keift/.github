@@ -11,4 +11,3 @@ We are an organization that offers various services on the Internet since 2017.
 [`JUMP PROJECT`](https://npmjs.com/package/peakdb)
 
 Fast and advanced, document-based and key-value-based NoSQL database.
-
