@@ -14,8 +14,8 @@ Unique Snowflake IDs and Symbolic IDs that can be generated for thousands of yea
 
 ### These are our GitHub stats 📈
 
-<img src="https://github-readme-stats.vercel.app/api?username=keift&show_icons=true&theme=tokyonight" width="512px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=keift&show_icons=true&theme=transparent" width="512px"/>
 
 ### These are the languages we use the most 📊
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=keift&layout=compact&theme=tokyonight" width="512px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=keift&layout=compact&theme=transparent" width="512px"/>
