@@ -2,7 +2,7 @@
 
 ### About Us 😀
 
-We are an organization that offers various services on the Internet since 2017.
+We are an organization that has been providing various services since 2017.
 
 ### This is our last project 💻
 
