@@ -10,4 +10,4 @@ We are an organization that has been providing various services since 2017.
 
 [`JUMP PROJECT`](https://npmjs.com/package/uuniq)
 
-Unique IDs that will last for thousands of years.
+Unique Snowflake IDs and Symbolic IDs that can be generated for thousands of years.
