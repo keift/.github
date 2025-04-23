@@ -6,7 +6,7 @@ We are an organization that has been providing various services since 2017.
 
 ### This is our last project 💻
 
-<img src="https://i.ibb.co/wh9kNmsD/unknown.png" width="256px"/>
+<img src="https://i.ibb.co/GvJ1ZRF0/unknown.png" width="256px"/>
 
 [`JUMP PROJECT`](https://npmjs.com/package/uuniq)
 
