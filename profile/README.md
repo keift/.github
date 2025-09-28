@@ -1,6 +1,6 @@
 # Hi, we are Keift! <img src="https://komarev.com/ghpvc?username=poifn&label=Page%20Views"/>
 
-### About Us 😀
+### About us 🪧
 
 We are an organization that has been providing various services since 2017.
 
