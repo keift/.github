@@ -10,4 +10,4 @@ We are an organization that has been providing various services since 2017.
 
 [`JUMP PROJECT`](https://npmjs.com/package/yuppi)
 
-Schemas that can be converted to Yup and JSON Schema.
+Portable and simple schemas for property validation.
